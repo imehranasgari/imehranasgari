@@ -192,35 +192,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 <p align="center">
   <a href="#"><strong>🇬🇧 بازگشت به نسخه انگلیسی (Back to English)</strong></a>
 </p>
-<p align="center">
-  <div class="welcome-banner">خوش آمدید</div>
-</p>
 
-<style>
-  @keyframes slideIn {
-    0% {
-      transform: translateX(100%);
-      opacity: 0;
-    }
-    50% {
-      opacity: 1;
-    }
-    100% {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-
-  .welcome-banner {
-    font-size: 36px;
-    font-weight: bold;
-    color: white;
-    background-color: #3498db;
-    padding: 20px 40px;
-    border-radius: 10px;
-    animation: slideIn 2s ease-in-out;
-  }
-</style>
 
 #  مهران عسگری روزبهانی | پروفایل تخصصی یادگیری ماشین و یادگیری عمیق
 
