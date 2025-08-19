@@ -168,27 +168,6 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 3.  **Run Notebooks**: Navigate to a project folder and run the `.ipynb` files in Jupyter or Google Colab.
 
 ---
-&nbsp;
-
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-  }
-
-  #english-version {
-    text-align: left; /* متن انگلیسی باید به چپ چیده شود */
-  }
-
-  #-نسخه-فارسی {
-    text-align: right; /* متن فارسی باید به راست چیده شود */
-  }
-
-  .center {
-    text-align: center; /* مواردی که نیاز به مرکزچینی دارند */
-  }
-</style>
-
-<div dir="rtl" id="-نسخه-فارسی">
 
 #  مهران عسگری روزبهانی | پروفایل تخصصی یادگیری ماشین و یادگیری عمیق
 
