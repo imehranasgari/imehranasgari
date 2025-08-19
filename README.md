@@ -158,17 +158,18 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/imehranasgari/your-repo-name.git](https://github.com/imehranasgari/your-repo-name.git)
+    git clone https://github.com/imehranasgari/imehranasgari.git
     ```
 2.  **Create Environment**:
-    The recommended way is using the `environment_cuda.yml` file.
+    The recommended way is using the `ai.yml` file, which you can **[download here](https://github.com/imehranasgari/imehranasgari/blob/main/ai.yml)**. This single environment is designed to work for all repositories, containing all necessary packages with GPU (CUDA) support, ensuring no package conflicts.
     ```bash
-    conda env create -f environment_cuda.yml
+    conda env create -f ai.yml
     ```
 3.  **Run Notebooks**: Navigate to a project folder and run the `.ipynb` files in Jupyter or Google Colab.
 <p align="center">
   <img src="under.svg" alt="under Banner">
 </p>
+
 ---
 
 #  مهران عسگری روزبهانی | پروفایل تخصصی یادگیری ماشین و یادگیری عمیق
@@ -320,23 +321,21 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     - کسب توانایی پیاده‌سازی و آموزش **معماری‌های نوین و پژوهش‌محور** (مانند شبکه‌های سیامی و GANs) که نیازمند منطق آموزش غیراستاندارد هستند.
     - مهندسی **پایپ‌لاین‌های آموزشی کاملاً سفارشی** با کنترل کامل برای انجام آزمایش‌ها و دیباگینگ پیشرفته.
     - تسلط بر `tf.data` API برای ساخت **پایپ‌لاین‌های ورودی بسیار کارآمد و مقیاس‌پذیر** برای دیتاست‌های حجیم.
-- **[⬅️ مشاهده پروژه در گیت‌هاب](https://github.com/imehranasgari/DL_TensorFlow_LowLevelAPI_and_CustomModels)**
+- **[⬅️ مشاهده پروژه در گیت‌هاب](https://github.com/imehranasgari/imehranasgari/blob/main/ai.yml)**
 ---
-
 ## ⚙️ نصب و اجرا
 
 ۱.  **کلون کردن ریپازیتوری**:
 
-    git clone [https://github.com/imehranasgari/repo-name.git](https://github.com/imehranasgari/repo-name.git)
-۲.  **ساخت محیط**:
-    روش پیشنهادی استفاده از فایل `environment_cuda.yml` است.
+    git clone https://github.com/imehranasgari/imehranasgari.git
 
-    conda env create -f environment_cuda.yml
+۲.  **ساخت محیط**:
+روش پیشنهادی استفاده از فایل `ai.yml` است که می‌توانید آن را **[از اینجا دانلود کنید](https://www.google.com/search?q=https://raw.githubusercontent.com/imehranasgari/imehranasgari/main/ai.yml)**. این محیط یکپارچه برای تمام ریپازیتوری‌ها طراحی شده و شامل تمام پکیج‌های ضروری با پشتیبانی از GPU (CUDA) است و هیچ‌گونه تداخلی بین پکیج‌ها وجود ندارد.
+
+`  conda env create -f ai.yml  `
 
 ۳.  **اجرای نوتبوک‌ها**: به پوشه پروژه مورد نظر بروید و فایل‌های `.ipynb` را در ژوپیتر یا گوگل کولب اجرا کنید.
-
 </div>
-
 <p align="center">
   <img src="under.svg" alt="under Banner">
 </p>
