@@ -330,7 +330,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     git clone https://github.com/imehranasgari/imehranasgari.git
 
 ۲.  **ساخت محیط**:
-روش پیشنهادی استفاده از فایل `ai.yml` است که می‌توانید آن را **[از اینجا دانلود کنید](https://www.google.com/search?q=https://raw.githubusercontent.com/imehranasgari/imehranasgari/main/ai.yml)**. این محیط یکپارچه برای تمام ریپازیتوری‌ها طراحی شده و شامل تمام پکیج‌های ضروری با پشتیبانی از GPU (CUDA) است و هیچ‌گونه تداخلی بین پکیج‌ها وجود ندارد.
+روش پیشنهادی استفاده از فایل `ai.yml` است که می‌توانید آن را **[از اینجا دانلود کنید](https://github.com/imehranasgari/imehranasgari/blob/main/ai.yml)**. این محیط یکپارچه برای تمام ریپازیتوری‌ها طراحی شده و شامل تمام پکیج‌های ضروری با پشتیبانی از GPU (CUDA) است و هیچ‌گونه تداخلی بین پکیج‌ها وجود ندارد.
 
 `  conda env create -f ai.yml  `
 
