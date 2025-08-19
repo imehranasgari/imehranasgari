@@ -2,19 +2,28 @@
   <img src="welcome.gif" alt="Welcome Banner">
 </p>
 
+<a id="english-version"></a>
+
+## 🇬🇧 English Version
+
 # Mehran Asgari Roozbahani | Advanced Machine Learning & Deep Learning Portfolio
 
 <div align="center">
   <a href="mailto:imehranasgari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a><a href="https://github.com/imehranasgari" target="_blank">
+  </a>
+  <a href="https://github.com/imehranasgari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <br>
-  <a href="#-نسخه-فارسی"><strong>🇮🇷 مشاهده نسخه فارسی (View Persian Version)</strong></a>
+  <br><br>
+  <a href="#-نسخه-فارسی">
+    <img src="https://img.shields.io/badge/View_in-Persian_(فارسی)-2ea44f?style=for-the-badge" alt="View Persian Version"/>
+  </a>
 </div>
 
 <br>
+
+---
 
 As a specialist in **Machine Learning, Deep Learning, and Data Mining ,Computer Vision ,...**, I am passionate about transforming complex challenges into robust, data-driven solutions. This portfolio showcases my journey from foundational concepts to advanced deep learning architectures, featuring end-to-end projects, custom implementations, and a strong command of the underlying theory.
 
@@ -39,6 +48,7 @@ As a specialist in **Machine Learning, Deep Learning, and Data Mining ,Computer 
   <a href="https://mlflow.org/" target="_blank"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/REST%20APIs-008CBA?style=for-the-badge&logo=dependabot&logoColor=white" alt="REST APIs"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>  
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
@@ -120,7 +130,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 - **Supervised & Unsupervised Learning:** Strong command of Regression, Classification (`SVM`, `XGBoost`), and Clustering (`K-Means`, `DBSCAN`, `HDBSCAN`).
 - **Data Preprocessing & Feature Engineering:** Skilled in preparing data for modeling, including advanced encoding, feature scaling, and dimensionality reduction (`PCA`, `UMAP`).
 - **Recommender Systems:** Solid understanding of `Collaborative Filtering`, `Content-Based`, and hybrid engines like `Neural Collaborative Filtering`.
-- **AutoML & MLOps:** Experience with `PyCaret` for rapid prototyping and foundational knowledge of MLOps for versioning (`DVC`), experiment tracking (`MLflow`), and deployment (`Docker`).
+- **Automation, MLOps & Development:** Experience with `PyCaret` for rapid prototyping and foundational MLOps knowledge (`DVC`, `MLflow`, `Docker`). Proficient in developing **automation scripts** and integrating with **REST APIs** (e.g., GitHub API) to streamline workflows, manage projects, and bridge the gap between development and deployment.
 
 ---
 
@@ -152,6 +162,12 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     - Engineered **fully customized training pipelines**, providing complete control for advanced experimentation and debugging.
     - Mastered the `tf.data` API to build **highly efficient and scalable input pipelines** for large datasets.
 - **[➡️ View Project on GitHub](https://github.com/imehranasgari/DL_TensorFlow_LowLevelAPI_and_CustomModels)**
+  
+### 5. GitHub Repository Auto-Tagger
+- **Description:** Developed a Python automation script to streamline GitHub portfolio management. The tool scans a local directory of Git projects, intelligently generates relevant topics from folder structures and README content, and applies these tags directly to the corresponding GitHub repositories via the API.
+- **Technologies:** `Python`, `GitHub API`, `Requests`, `Regex`
+- **Achievements:** Successfully automated a tedious manual process, ensuring consistent and comprehensive project tagging. The script features secure handling of credentials using `getpass` and includes a user confirmation step to prevent accidental updates, improving both efficiency and safety.
+- **[➡️ View Project on GitHub](https://github.com/imehranasgari/GitHub_Repository_Auto_Tagger)**
 ---
 
 ## ⚙️ Installation & Execution
@@ -167,20 +183,28 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     ```
 3.  **Run Notebooks**: Navigate to a project folder and run the `.ipynb` files in Jupyter or Google Colab.
 <p align="center">
-  <img src="under.svg" alt="under Banner">
+  <img src="under.svg" alt="under Banner eng">
 </p>
 
 ---
 
-#  مهران عسگری روزبهانی | پروفایل تخصصی یادگیری ماشین و یادگیری عمیق
+<a id="-نسخه-فارسی"></a>
+
+## 🇮🇷 نسخه فارسی
+
+# مهران عسگری روزبهانی | پروفایل تخصصی یادگیری ماشین و یادگیری عمیق
 
 <div align="center">
   <a href="mailto:imehranasgari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a><a href="https://github.com/imehranasgari" target="_blank">
+  </a>
+  <a href="https://github.com/imehranasgari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <br>
+  <br><br>
+  <a href="#english-version">
+    <img src="https://img.shields.io/badge/Back_to-English-007ACC?style=for-the-badge" alt="Back to English Version"/>
+  </a>
 </div>
 
 <br>
@@ -209,7 +233,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
   <a href="https://mlflow.org/" target="_blank"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/REST%20APIs-008CBA?style=for-the-badge&logo=dependabot&logoColor=white" alt="REST APIs"/></a><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>  
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/></a>
@@ -290,7 +314,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 - **یادگیری نظارت‌شده و بدون نظارت:** تسلط قوی بر رگرسیون، طبقه‌بندی (`SVM`, `XGBoost`) و خوشه‌بندی (`K-Means`, `DBSCAN`, `HDBSCAN`).
 - **پیش‌پردازش داده و مهندسی ویژگی:** مهارت در آماده‌سازی داده برای مدل‌سازی، شامل کدگذاری پیشرفته، مقیاس‌بندی ویژگی‌ها و کاهش ابعاد (`PCA`, `UMAP`).
 - **سیستم‌های توصیه‌گر:** درک عمیق از `Collaborative Filtering`، `Content-Based` و موتورهای ترکیبی مانند `Neural Collaborative Filtering`.
-- **AutoML و MLOps:** تجربه کار با `PyCaret` برای نمونه‌سازی سریع و دانش پایه‌ای از MLOps برای نسخه‌بندی (`DVC`)، ردیابی آزمایش‌ها (`MLflow`) و استقرار مدل (`Docker`).
+- **اتوماسیون، MLOps و توسعه ابزار:** تجربه کار با `PyCaret` برای نمونه‌سازی سریع و دانش پایه‌ای MLOps (`DVC`, `MLflow`, `Docker`). مهارت در توسعه **اسکریپت‌های اتوماسیون** و یکپارچه‌سازی با **REST API** (مانند API گیت‌هاب) برای بهینه‌سازی فرآیندها، مدیریت پروژه‌ها و اتصال دنیای توسعه به استقرار نهایی.
 
 ---
 
@@ -321,7 +345,13 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     - کسب توانایی پیاده‌سازی و آموزش **معماری‌های نوین و پژوهش‌محور** (مانند شبکه‌های سیامی و GANs) که نیازمند منطق آموزش غیراستاندارد هستند.
     - مهندسی **پایپ‌لاین‌های آموزشی کاملاً سفارشی** با کنترل کامل برای انجام آزمایش‌ها و دیباگینگ پیشرفته.
     - تسلط بر `tf.data` API برای ساخت **پایپ‌لاین‌های ورودی بسیار کارآمد و مقیاس‌پذیر** برای دیتاست‌های حجیم.
-- **[⬅️ مشاهده پروژه در گیت‌هاب](https://github.com/imehranasgari/imehranasgari/blob/main/ai.yml)**
+- **[⬅️ مشاهده پروژه در گیت‌هاب](https://github.com/imehranasgari/DL_TensorFlow_LowLevelAPI_and_CustomModels)**
+- 
+### ۵. ابزار اتوماتیک تگ‌گذاری ریپازیتوری‌های گیت‌هاب
+- **شرح:** توسعه یک اسکریپت پایتون برای مدیریت خودکار پروفایل گیت‌هاب. این ابزار با اسکن دایرکتوری پروژه‌های محلی، به صورت هوشمند از روی ساختار پوشه‌ها و محتوای فایل `README` کلمات کلیدی مرتبط را استخراج کرده و آن‌ها را از طریق API گیت‌هاب به عنوان تاپیک به ریپازیتوری‌های مربوطه اضافه می‌کند.
+- **تکنولوژی‌ها:** `Python`, `GitHub API`, `Requests`, `Regex`
+- **دستاوردها:** خودکارسازی یک فرآیند دستی زمان‌بر که منجر به تگ‌گذاری یکپارچه و جامع پروژه‌ها شد. این اسکریپت با استفاده از `getpass` اطلاعات حساس را به صورت امن دریافت می‌کند و دارای یک مرحله تأیید نهایی توسط کاربر برای جلوگیری از تغییرات ناخواسته است که کارایی و امنیت را همزمان تضمین می‌کند.
+- **[⬅️ مشاهده پروژه در گیت‌هاب](https://github.com/imehranasgari/GitHub_Repository_Auto_Tagger)**
 ---
 ## ⚙️ نصب و اجرا
 
@@ -335,7 +365,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 `  conda env create -f ai.yml  `
 
 ۳.  **اجرای نوتبوک‌ها**: به پوشه پروژه مورد نظر بروید و فایل‌های `.ipynb` را در ژوپیتر یا گوگل کولب اجرا کنید.
-</div>
+
 <p align="center">
-  <img src="under.svg" alt="under Banner">
+  <img src="under.svg" alt="under Banner per">
 </p>
