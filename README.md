@@ -166,7 +166,9 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     conda env create -f environment_cuda.yml
     ```
 3.  **Run Notebooks**: Navigate to a project folder and run the `.ipynb` files in Jupyter or Google Colab.
-
+<p align="center">
+  <img src="under.svg" alt="under Banner">
+</p>
 ---
 
 #  مهران عسگری روزبهانی | پروفایل تخصصی یادگیری ماشین و یادگیری عمیق
@@ -334,3 +336,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 ۳.  **اجرای نوتبوک‌ها**: به پوشه پروژه مورد نظر بروید و فایل‌های `.ipynb` را در ژوپیتر یا گوگل کولب اجرا کنید.
 
 </div>
+
+<p align="center">
+  <img src="under.svg" alt="under Banner">
+</p>
