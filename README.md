@@ -187,12 +187,8 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     text-align: center; /* مواردی که نیاز به مرکزچینی دارند */
   }
 </style>
+
 <div dir="rtl" id="-نسخه-فارسی">
-
-<p align="center">
-  <a href="#"><strong>🇬🇧 بازگشت به نسخه انگلیسی (Back to English)</strong></a>
-</p>
-
 
 #  مهران عسگری روزبهانی | پروفایل تخصصی یادگیری ماشین و یادگیری عمیق
 
