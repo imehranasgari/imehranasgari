@@ -16,7 +16,7 @@
 
 <br>
 
-As a specialist in **Machine Learning, Deep Learning, and Data Mining**, I am passionate about transforming complex challenges into robust, data-driven solutions. This portfolio showcases my journey from foundational concepts to advanced deep learning architectures, featuring end-to-end projects, custom implementations, and a strong command of the underlying theory.
+As a specialist in **Machine Learning, Deep Learning, and Data Mining ,Computer Vision ,...**, I am passionate about transforming complex challenges into robust, data-driven solutions. This portfolio showcases my journey from foundational concepts to advanced deep learning architectures, featuring end-to-end projects, custom implementations, and a strong command of the underlying theory.
 
 ---
 
@@ -63,7 +63,9 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 <details>
 <summary>Click to view the detailed 2025 Roadmap Image</summary>
 <p align="center">
-  <img src="Enhanced_ML_DL_Roadmap.png" alt="Machine Learning and Deep Learning Roadmap 2025"/>
+  <a href="Enhanced_ML_DL_Roadmap.pdf" target="_blank">
+    <img src="Enhanced_ML_DL_Roadmap.png" alt="Machine Learning and Deep Learning Roadmap 2025"/>
+  </a>
 </p>
 </details>
 
@@ -233,7 +235,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 
 <br>
 
-من متخصص **یادگیری ماشین، یادگیری عمیق و داده‌کاوی** هستم و با اشتیاق، مسائل پیچیده را به راه‌حل‌های هوشمند و داده‌محور تبدیل می‌کنم. این مجموعه، مسیر حرفه‌ای من از مفاهیم بنیادی تا معماری‌های پیشرفته را به نمایش می‌گذارد و شامل پروژه‌های کاربردی، پیاده‌سازی‌های اختصاصی و تسلط عمیق بر مبانی تئوری است.
+من متخصص **یادگیری ماشین، یادگیری عمیق و داده‌کاوی و بینایی ماشین و...** هستم و با اشتیاق، مسائل پیچیده را به راه‌حل‌های هوشمند و داده‌محور تبدیل می‌کنم. این مجموعه، مسیر حرفه‌ای من از مفاهیم بنیادی تا معماری‌های پیشرفته را به نمایش می‌گذارد و شامل پروژه‌های کاربردی، پیاده‌سازی‌های اختصاصی و تسلط عمیق بر مبانی تئوری است.
 
 ---
 
@@ -279,9 +281,11 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 این نقشه راه، دیدی کلی و جامع از تخصص من، از مبانی ریاضی تا فناوری‌های نوظهور در هوش مصنوعی را ارائه می‌دهد.
 
 <details>
-<summary>برای مشاهده تصویر نقشه راه ۲۰۲۵ کلیک کنید</summary>
+<summary>>برای مشاهده تصویر نقشه راه ۲۰۲۵ کلیک کنید</summary>
 <p align="center">
-  <img src="Enhanced_ML_DL_Roadmap.png" alt="نقشه راه یادگیری ماشین و یادگیری عمیق ۲۰۲۵"/>
+  <a href="Enhanced_ML_DL_Roadmap.pdf" target="_blank">
+    <img src="Enhanced_ML_DL_Roadmap.png" alt="نقشه راه یادگیری ماشین و یادگیری عمیق ۲۰۲۵"/>
+  </a>
 </p>
 </details>
 
