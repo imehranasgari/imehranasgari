@@ -1,41 +1,13 @@
 <p align="center">
-  <div class="welcome-banner">Welcome</div>
+  <img src="welcome.gif" alt="Welcome Banner">
 </p>
-
-<style>
-  @keyframes slideIn {
-    0% {
-      transform: translateX(-100%);
-      opacity: 0;
-    }
-    50% {
-      opacity: 1;
-    }
-    100% {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-
-  .welcome-banner {
-    font-size: 36px;
-    font-weight: bold;
-    color: white;
-    background-color: #3498db;
-    padding: 20px 40px;
-    border-radius: 10px;
-    animation: slideIn 2s ease-in-out;
-  }
-</style>
-
 
 # Mehran Asgari Rozbahani | Advanced Machine Learning & Deep Learning Portfolio
 
 <div align="center">
   <a href="mailto:imehranasgari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-  <a href="https://github.com/imehranasgari" target="_blank">
+  </a><a href="https://github.com/imehranasgari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <br>
@@ -253,8 +225,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 <div align="center">
   <a href="mailto:imehranasgari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-  <a href="https://github.com/imehranasgari" target="_blank">
+  </a><a href="https://github.com/imehranasgari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <br>
