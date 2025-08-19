@@ -2,7 +2,7 @@
   <img src="welcome.gif" alt="Welcome Banner">
 </p>
 
-# Mehran Asgari Rozbahani | Advanced Machine Learning & Deep Learning Portfolio
+# Mehran Asgari Roozbahani | Advanced Machine Learning & Deep Learning Portfolio
 
 <div align="center">
   <a href="mailto:imehranasgari@gmail.com">
