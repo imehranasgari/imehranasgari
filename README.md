@@ -22,11 +22,10 @@
     <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
   </a>
   <br><br>
-  <a href="#english-version">
-    <img src="https://img.shields.io/badge/Back_to-English-007ACC?style=for-the-badge" alt="Back to English Version"/>
+  <a href="#-نسخه-فارسی">
+    <img src="https://img.shields.io/badge/go to-Persian-238636?style=for-the-badge" alt="رفتن به نسخه فارسی"/>
   </a>
 </div>
-
 <br>
 
 ---
