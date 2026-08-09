@@ -223,7 +223,7 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
 # مهران عسگری روزبهانی | پروفایل تخصصی یادگیری ماشین و یادگیری عمیق
 
 <div align="center">
-  <a href="mailto:imehranasgari@gmail.com">
+  <a href="mailto:mehran.asgari.eng@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
   <a href="https://github.com/imehranasgari" target="_blank">
