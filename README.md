@@ -12,7 +12,7 @@
   <a href="mailto:mehran.asgari.eng@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/mehran-asgari-rozbahani-ba9888208/?isSelfProfile=false" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
   <a href="https://github.com/imehranasgari" target="_blank">
@@ -229,6 +229,9 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
   <a href="mailto:mehran.asgari.eng@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
+  <a href="https://www.linkedin.com/in/mehran-asgari-rozbahani-ba9888208/?isSelfProfile=false" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
   <a href="https://github.com/imehranasgari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
@@ -239,8 +242,8 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
   </a>
   <br><br>
-  <a href="#english-version">
-    <img src="https://img.shields.io/badge/Back_to-English-007ACC?style=for-the-badge" alt="Back to English Version"/>
+  <a href="#-نسخه-فارسی">
+    <img src="https://img.shields.io/badge/go to-Persian-238636?style=for-the-badge" alt="رفتن به نسخه فارسی"/>
   </a>
 </div>
 
