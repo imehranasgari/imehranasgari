@@ -242,8 +242,8 @@ This roadmap provides a visual and textual overview of my expertise, covering a 
     <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
   </a>
   <br><br>
-  <a href="#-نسخه-فارسی">
-    <img src="https://img.shields.io/badge/go to-Persian-238636?style=for-the-badge" alt="رفتن به نسخه فارسی"/>
+  <a href="#-english-version">
+    <img src="https://img.shields.io/badge/go to-english-238636?style=for-the-badge" alt="go to English"/>
   </a>
 </div>
 
